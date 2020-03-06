@@ -1,3 +1,3 @@
 # School_Presentations
 Project Reports:
-Combination of individual research and group projects across a range of data science topics
+Researched topic summaries such as image processing, convolutional neural networks, and NLP. 
